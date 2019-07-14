@@ -1,7 +1,11 @@
-# flutter_admob
-
 A new Flutter project.
 
+<p>
+  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_admob/master/Screenshot_20190705_205639-min.png" width="350" hspace="4">
+</p>
+
+## Youtube Video Link
+[Flutter - How to Add ads to Flutter App in Under 10 Min Tutorial](https://youtu.be/2sLAcHDfbcQ)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
@@ -14,3 +18,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.dev/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
