@@ -23,6 +23,7 @@ class _MyAppState extends State<MyApp> {
   BannerAd createBannerAd() {
     return BannerAd(
         adUnitId: BannerAd.testAdUnitId,
+      //Change BannerAd adUnitId with Admob ID
         size: AdSize.banner,
         targetingInfo: targetingInfo,
         listener: (MobileAdEvent event) {
@@ -33,6 +34,7 @@ class _MyAppState extends State<MyApp> {
   InterstitialAd createInterstitialAd() {
     return InterstitialAd(
         adUnitId: InterstitialAd.testAdUnitId,
+      //Change Interstitial AdUnitId with Admob ID
         targetingInfo: targetingInfo,
         listener: (MobileAdEvent event) {
           print("IntersttialAd $event");
@@ -42,6 +44,7 @@ class _MyAppState extends State<MyApp> {
   @override
   void initState() {
     FirebaseAdMob.instance.initialize(appId: BannerAd.testAdUnitId);
+    //Change appId With Admob Id
     _bannerAd = createBannerAd()
       ..load()
       ..show();
