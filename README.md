@@ -7,6 +7,9 @@ A new Flutter project.
 
 ## Youtube Video Link
 [Flutter - How to Add ads to Flutter App in Under 10 Min Tutorial](https://youtu.be/2sLAcHDfbcQ)
+
+## 🖥 Flutter Tutorial
+All Flutter Tutorials plus additional Code and shorter posts can be found on the [Official AllTechSavvy website](https://www.alltechsavvy.com/). 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
