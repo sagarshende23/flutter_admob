@@ -2,9 +2,7 @@
 
 how to Implement Admob ads in a Flutter app by using Firebase_admob packages to easily implement ads into a Flutter app. 
 
-<p>
-  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_admob/master/Screenshot_20190705_205639-min.png" width="350" hspace="4">
-</p>
+
 
 <p align="center">
    <a href="https://github.com/sagarshende23">
@@ -26,6 +24,10 @@ how to Implement Admob ads in a Flutter app by using Firebase_admob packages to 
  
  # 💻Written Tutorial
 Flutter Admob Tutorial:- https://alltechsavvy.com/add-ads-to-flutter-app-in-under-10-min/
+
+<p>
+  <img src="https://raw.githubusercontent.com/sagarshende23/flutter_admob/master/Screenshot_20190705_205639-min.png" width="350" hspace="4">
+</p>
 
 ## Youtube Video Link
 [Flutter - How to Add ads to Flutter App in Under 10 Min Tutorial](https://youtu.be/2sLAcHDfbcQ)
