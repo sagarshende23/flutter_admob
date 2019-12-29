@@ -1,9 +1,31 @@
 ## Flutter AdMob Project
-A new Flutter project.
+
+how to Implement Admob ads in a Flutter app by using Firebase_admob packages to easily implement ads into a Flutter app. 
 
 <p>
   <img src="https://raw.githubusercontent.com/sagarshende23/flutter_admob/master/Screenshot_20190705_205639-min.png" width="350" hspace="4">
 </p>
+
+<p align="center">
+   <a href="https://github.com/sagarshende23">
+    <img src="https://img.shields.io/badge/Github-Sagar Shende-black.svg?style=for-the-badge">
+  </a>
+  <a href="https://github.com/sagarshende23/reflectly-like-loginpage-flutter/stargazers">
+    <img src="https://img.shields.io/github/stars/sagarshende23/flutter_admob.svg?style=for-the-badge">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.alltechsavvy.calculator">
+    <img src="https://img.shields.io/badge/Google-PlayStore-green.svg?style=for-the-badge">
+  </a>
+   <a href="https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg">
+    <img src="https://img.shields.io/badge/YouTube-AllTechSavvy-red.svg?style=for-the-badge">
+  </a>
+ 
+</p>
+
+ <img src="https://raw.githubusercontent.com/sagarshende23/flutter_admob/master/maxresdefault%20(1).jpg">
+ 
+ # 💻Written Tutorial
+Flutter Admob Tutorial:- https://alltechsavvy.com/add-ads-to-flutter-app-in-under-10-min/
 
 ## Youtube Video Link
 [Flutter - How to Add ads to Flutter App in Under 10 Min Tutorial](https://youtu.be/2sLAcHDfbcQ)
